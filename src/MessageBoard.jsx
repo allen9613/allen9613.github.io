@@ -1,6 +1,4 @@
-//Contain a message board the allow visitors to leave messages
-// Path: src/MessageBoard.jsx
-//
+
 import React, { useState } from 'react'
 import './MessageBoard.css'
 

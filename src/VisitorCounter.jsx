@@ -1,6 +1,4 @@
-//contains a counter of visitors
-// Path: src/VisitorCounter.jsx
-//
+
 import React, { useState, useEffect } from 'react'
 import './VisitorCounter.css'
 
